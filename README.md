@@ -1,2 +1,3 @@
 # J.programers
-Sitio web basico y elegante para un empredimiento 
+One-page template.
+You do not need to install dependencies.
